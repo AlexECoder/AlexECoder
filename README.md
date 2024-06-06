@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexECoder
 - 👀 I’m interested in Java core
-- 🌱 I’m currently learning IT School Maxima -Java Junior developer
+- 🌱 I’m currently learning - Java Junior developer in IT School Maxima
 - 💞️ I am open for cooperation and suggestions
 - 📫 How to reach me. Email Rfo53@yandex.ru
 
